@@ -9,9 +9,9 @@ Activate a environment:
 
 pip3 install ricecooker
 
-git clone 
+git clone https://github.com/swapnil106111/Tarkeybein-Foundation.git
 
-cd 
+cd Tarkeybein-Foundation
 
 python chef.py --token=<<your_token_id>>
 

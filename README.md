@@ -13,7 +13,7 @@ git clone https://github.com/swapnil106111/Tarkeybein-Foundation.git
 
 cd Tarkeybein-Foundation
 
-python chef.py --token=<<your_token_id>>
+python sample_program.py --token=<<your_token_id>>
 
 
 
